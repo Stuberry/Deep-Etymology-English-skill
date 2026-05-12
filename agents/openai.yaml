@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deep Etymology ZH"
+  short_description: "用中文深度讲解英语词源、语法和 Logseq 英语学习页，重点拆解拉丁词形变换。"
+  default_prompt: "Use $deep-etymology-zh to process an English learning page in Chinese, explain italicized items too, deeply unpack Latin morphology and semantic force, and generate a matching card page excluding italicized source items and duplicate headwords already present in existing card pages."
